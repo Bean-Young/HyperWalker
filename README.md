@@ -153,14 +153,7 @@ The framework supports multiple evaluation metrics:
 
 ## Results
 
-Our method achieves state-of-the-art performance on:
-
-| Task | Dataset | Metric | Score |
-|------|---------|--------|-------|
-| MRG | MIMIC-CXR | BLEU-4 | XX.X |
-| MRG | MIMIC-CXR | ROUGE-L | XX.X |
-| VQA | EHRXQA | Accuracy | XX.X% |
-
+Our method achieves state-of-the-art performance on MRG and VQA. 
 *Full results will be updated upon paper publication.*
 
 ## Citation
@@ -183,7 +176,7 @@ This project was developed at the Institute of Translational Medicine, Shanghai 
 ## Contact
 
 For questions or issues, please contact:
-- Yuezhe Yang (yuezheyang@sjtu.edu.cn)
+- Yuezhe Yang (yangyuezhe@gmail.com)
 - Project Page: [https://github.com/Bean-Young/HyperWalker](https://github.com/Bean-Young/HyperWalker)
 
 ## License
